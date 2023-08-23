@@ -1,4 +1,4 @@
 # senai-git.
 repositorio.
 
-exemplode repositorio. 
+exemplo de repositorio. 
